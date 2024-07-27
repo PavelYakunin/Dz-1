@@ -1,0 +1,9 @@
+"1st Program"
+print((9 ** 0.5) * 5)
+"2nd Program"
+print(9.99 > 9.98 or 1000 != 1000.1)
+"3rd Program"
+print((1234 % 1000 // 10) + (5678 % 5000 // 10))
+"4th Program"
+print(13.42 // 1 == 13 or 42.13 // 1  == 42)
+
